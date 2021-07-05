@@ -1,0 +1,1 @@
+var mapFunc2=function(){var peeps=emit(this.gender,this.age);$split:[peeps,”,”];};
