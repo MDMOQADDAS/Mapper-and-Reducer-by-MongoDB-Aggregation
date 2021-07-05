@@ -1,0 +1,1 @@
+var reduceFunc2=function(keyGender,valuesAge){return valuesAge.length;};
